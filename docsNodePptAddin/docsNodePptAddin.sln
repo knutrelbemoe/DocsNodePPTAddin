@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docsNodePptAddin", "docsNodePptAddin\docsNodePptAddin.csproj", "{241A9FC6-AD57-4A5D-9B43-45A58F927713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docsNodePptAddinWeb", "docsNodePptAddinWeb\docsNodePptAddinWeb.csproj", "{EA87259B-E25F-44E2-839D-8E029DE5A48B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241A9FC6-AD57-4A5D-9B43-45A58F927713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241A9FC6-AD57-4A5D-9B43-45A58F927713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241A9FC6-AD57-4A5D-9B43-45A58F927713}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{241A9FC6-AD57-4A5D-9B43-45A58F927713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241A9FC6-AD57-4A5D-9B43-45A58F927713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241A9FC6-AD57-4A5D-9B43-45A58F927713}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EA87259B-E25F-44E2-839D-8E029DE5A48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA87259B-E25F-44E2-839D-8E029DE5A48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA87259B-E25F-44E2-839D-8E029DE5A48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA87259B-E25F-44E2-839D-8E029DE5A48B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC5474DB-E8C9-4D3F-893A-487A82DE8702}
+	EndGlobalSection
+EndGlobal
